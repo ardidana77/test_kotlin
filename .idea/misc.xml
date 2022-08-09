@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Data IT/Mobile Project/test_kotlin/app/src/main/res/layout/activity_detail.xml" value="0.22" />
         <entry key="..\:/Data IT/Mobile Project/test_kotlin/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Data IT/Mobile Project/test_kotlin/app/src/main/res/layout/recyclerview_list_contact.xml" value="0.19701086956521738" />
       </map>
     </option>
   </component>
